@@ -1,1 +1,1 @@
-# gis
+Tugas dari Soal UTS
